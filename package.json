@@ -19,7 +19,7 @@
     "jwt-decode": "^2.2.0",
     "mdi-vue": "^0.2.14",
     "node-gyp": "^4.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "serve": "^11.0.0",
     "vee-validate": "^2.2.7",
