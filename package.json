@@ -20,7 +20,7 @@
     "mdi-vue": "^0.2.14",
     "node-gyp": "^4.0.0",
     "node-sass": "^4.12.0",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^13.2.0",
     "serve": "^11.0.0",
     "vee-validate": "^2.2.7",
     "vue": "^2.6.6",
@@ -33,9 +33,9 @@
     "zxcvbn": "^4.4.2"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.5.0",
-    "@vue/cli-plugin-eslint": "^3.5.0",
-    "@vue/cli-service": "^3.5.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-standard": "^4.0.0",
     "babel-eslint": "^10.0.1",
     "chai": "^4.2.0",
